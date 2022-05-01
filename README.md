@@ -2,3 +2,4 @@
 # From TechWithTim Tutorial
 This is a try git project.
 learning and trying new things.
+check if tim correct
